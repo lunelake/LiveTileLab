@@ -32,6 +32,7 @@ Iconic liveTile은 이번 윈도우폰8에서 추가된 타일으로 간단한 �
 
 
 참고
+
 기본 라이브타일은 업데이트가 가능한데             
 ShellTile Tile = ShellTile.ActiveTiles.First(); 여기에서 Tile은 Primary Tile을 나타낸다.
 그리고 Tile.Update(CycleTile);의 메서드를 사용하여 타일을 업데이트 하는데
