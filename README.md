@@ -8,14 +8,16 @@ LiveTileLab
 
 라이브타일의 이미지 사이즈
 아래는 각 형태에 따른 타일 사이즈 이다.
+
 Name of Tiles 	Small (Pixels) 	Medium (Pixels) 	Wide (Pixels) 
+
 Flip 	159 x 159 	336 x 336 	691 x 336 
+
 Cycle 	159 x 159 	336 x 336 	691 x 336 
+
 Iconic 	110 x 110 	202 x 202 	N/A 
 
-Full HD 975 x 474 
-Full HD Page 1920x1080
-1280x768
+
 
 Flip Tile Templates
 Flip liveTile은 기존의 윈도우폰7에서 흔히 볼 수 있었던 타일 모습이다. 다만 윈도우폰8에 맞춰서 Wide타일이 생겼다.
