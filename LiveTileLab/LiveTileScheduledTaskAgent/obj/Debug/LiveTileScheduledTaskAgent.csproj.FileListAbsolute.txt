@@ -1,0 +1,8 @@
+D:\대중교통허브 작업실\바람연구소\LiveTile\LiveTileLab\LiveTileScheduledTaskAgent\Bin\Debug\LiveTileScheduledTaskAgent.dll
+D:\대중교통허브 작업실\바람연구소\LiveTile\LiveTileLab\LiveTileScheduledTaskAgent\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+D:\대중교통허브 작업실\바람연구소\LiveTile\LiveTileLab\LiveTileScheduledTaskAgent\obj\Debug\LiveTileScheduledTaskAgent.dll
+D:\대중교통허브 작업실\바람연구소\LiveTile\LiveTileLab\LiveTileScheduledTaskAgent\obj\Debug\LiveTileScheduledTaskAgent.pdb
+D:\바람인터렉티브\바람인터렉티브\바람 연구소\LiveTile\LiveTileLab\LiveTileScheduledTaskAgent\Bin\Debug\LiveTileScheduledTaskAgent.dll
+D:\바람인터렉티브\바람인터렉티브\바람 연구소\LiveTile\LiveTileLab\LiveTileScheduledTaskAgent\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+D:\바람인터렉티브\바람인터렉티브\바람 연구소\LiveTile\LiveTileLab\LiveTileScheduledTaskAgent\obj\Debug\LiveTileScheduledTaskAgent.dll
+D:\바람인터렉티브\바람인터렉티브\바람 연구소\LiveTile\LiveTileLab\LiveTileScheduledTaskAgent\obj\Debug\LiveTileScheduledTaskAgent.pdb
